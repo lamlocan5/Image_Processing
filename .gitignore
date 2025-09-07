@@ -1,0 +1,13 @@
+
+# Ignore Slides and .cph folders
+Slides/
+.cph/
+
+# Ignore document, excel, powerpoint, and pdf files
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
